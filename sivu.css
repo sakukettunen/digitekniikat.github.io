@@ -32,12 +32,10 @@
     color: rgba(241,135,187, 0.8);
 }
 
-/* linkin väri */
 .navbar-custom .navbar-nav .nav-link {
     color: rgba(241,135,187, 0.8);
 }
 
-/* aktiivisen & hover-linkin väri */
 .navbar-custom .nav-item.active .nav-link,
 .navbar-custom .nav-item:hover .nav-link {
     color: #ffffff;
@@ -56,3 +54,17 @@
   body {
     background-color: rgba(137,17,76,0.9);
   }
+
+.custom-image-1 {
+  width: 100%;
+  max-width: 500px;
+  border-top-left-radius: 30%;
+  border-bottom-right-radius: 30%;
+}
+
+.custom-image-2 {
+  width: 100%;
+  max-width: 500px;
+  border-top-right-radius: 30%;
+  border-bottom-left-radius: 30%;
+}
