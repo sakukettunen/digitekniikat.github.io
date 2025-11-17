@@ -52,3 +52,7 @@
             background: pink !important;
             cursor: pointer;
   }
+
+  body {
+    background-color: rgba(137,17,76,0.9);
+  }
