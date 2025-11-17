@@ -1,6 +1,26 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Lobster&family=Momo+Signature&display=swap');
 
+.momo-signature-regular {
+  font-family: "Momo Signature", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lobster-regular {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.arimo-uniquifier {
+  font-family: "Arimo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .navbar-custom {
     background-color: rgba(137,17,76,0.9);
 }
@@ -9,13 +29,6 @@
 .navbar-custom .navbar-text{
     color: rgba(241,135,187, 0.8);
 }
-
-.navbar-custom .navbar-text .momo-signature-regular {
-  font-family: "Momo Signature", cursive;
-  font-weight: 400;
-  font-style: normal;
-}
-
 
 /* linkin väri */
 .navbar-custom .navbar-nav .nav-link {
