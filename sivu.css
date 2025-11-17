@@ -68,3 +68,11 @@
   border-top-right-radius: 30%;
   border-bottom-left-radius: 30%;
 }
+
+.nav-link.active {
+    color: white !important;
+}
+
+body { 
+    position: relative; 
+}
