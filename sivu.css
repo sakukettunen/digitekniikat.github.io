@@ -1,8 +1,3 @@
-.lilita-one-regular {
-  font-family: "Lilita One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
 
 .navbar-custom {
     background-color: rgba(137,17,76,0.9);
@@ -12,6 +7,13 @@
 .navbar-custom .navbar-text{
     color: rgba(241,135,187, 0.8);
 }
+
+.navbar-custom .navbar-text .momo-signature-regular {
+  font-family: "Momo Signature", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
 
 /* linkin väri */
 .navbar-custom .navbar-nav .nav-link {
